@@ -1,0 +1,37 @@
+The three basic components of object orientation are;
+
+Object oriented analysis – functionality of the system
+Object oriented designing – architecture of the system
+Object oriented programming – implementation of the application
+
+Object Oriented Programming Principles
+---------------------------------------
+1. Encapsulation – this is concerned with hiding the 
+implementation details and only exposing the methods.
+
+2. Inheritance – this is concerned with the relationship between 
+classes. The relationship takes the form of a parent and child.
+
+3. Polymorphism – this is concerned with having a single form 
+but many different implementation ways. The main purpose of polymorphism is;
+Simplify maintaining applications and making them more extendable.
+
+OOPs Concepts in PHP
+--------------------
+PHP is an object oriented scripting language.
+The above principles are achieved via;
+
+1. Encapsulation – via the use of “get” and “set” methods etc.
+2. Inheritance – via the use of extends keyword
+3. Polymorphism – via the use of implements keyword
+
+What is UML?
+-------------
+Unified Modeling Language UML is a technique used to design 
+and document object oriented systems.
+
+* Interface – it is similar to a class. It only defines the methods 
+and parameters.
+* Abstract class – it is a class that cannot be used to create an 
+object directly. Its purpose is to provide partial or whole 
+implementations of common methods.
